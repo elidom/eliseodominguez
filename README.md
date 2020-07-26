@@ -1,2 +1,0 @@
-# eliseodominguez
-My personal website
